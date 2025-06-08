@@ -17,8 +17,8 @@ Crypto Tracker Bot — это Telegram-бот для отслеживания к
 
 ### 1. Клонирование репозитория
 ```bash
-git clone [ваш-репозиторий]
-cd [ваш-репозиторий]
+git clone [https://github.com/hqknm/bot_project.git]
+cd [https://github.com/hqknm/bot_project.git]
 ```
 ### 2. Установка зависимостей
 ```bash
